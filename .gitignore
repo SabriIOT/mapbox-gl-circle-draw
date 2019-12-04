@@ -31,5 +31,3 @@ coverage/
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
-dist/bundle.js.gz
-yarn.lock
