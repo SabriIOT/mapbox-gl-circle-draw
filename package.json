@@ -1,5 +1,5 @@
 {
-  "name": "@iotvalley/mapbox-gl-circle-draw",
+  "name": "@sabriiot/mapbox-gl-circle-draw",
   "version": "1.0.0",
   "description": "A module to draw a circle using mapbox-gl-draw",
   "main": "dist/bundle.js",
