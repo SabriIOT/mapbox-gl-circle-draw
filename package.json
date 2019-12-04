@@ -8,7 +8,8 @@
     "build-dev": "webpack -d --mode development",
     "build-prod": "webpack -p --mode production",
     "test": "jest --all",
-    "coverage": "jest --all --coverage"
+    "coverage": "jest --all --coverage",
+    "publish": "npm publish --access public"
   },
   "keywords": [
     "mapbox",
